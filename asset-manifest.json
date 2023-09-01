@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-p2individuaactivity-part2/static/css/main.bcdf3816.css",
+    "main.js": "/React-p2individuaactivity-part2/static/js/main.97b4da20.js",
+    "static/media/salome.jpg": "/React-p2individuaactivity-part2/static/media/salome.c19f6d181152c1dda27c.jpg",
+    "static/media/azi.jpg": "/React-p2individuaactivity-part2/static/media/azi.b87d2fd228c7b0ce7bb0.jpg",
+    "static/media/cite.png": "/React-p2individuaactivity-part2/static/media/cite.9b933a465fb82ac64ee6.png",
+    "index.html": "/React-p2individuaactivity-part2/index.html",
+    "main.bcdf3816.css.map": "/React-p2individuaactivity-part2/static/css/main.bcdf3816.css.map",
+    "main.97b4da20.js.map": "/React-p2individuaactivity-part2/static/js/main.97b4da20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcdf3816.css",
+    "static/js/main.97b4da20.js"
+  ]
+}
